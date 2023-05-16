@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/work-progress-in-PPleene8JaXmqdI0BH" width="100"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTBkZWExYjk1MTNiZjEwOWFhZDI4NDQ1NzM1YjYyZTc0NmRlNDY0MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/PPleene8JaXmqdI0BH/giphy.gif" width="100"/>
 </div>
