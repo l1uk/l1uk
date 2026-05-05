@@ -32,7 +32,7 @@ Currently completing my **Erasmus Mundus Master's in Cybersecurity** (CYBERUS pr
 
 Check out my complete collection of research papers, technical reports, and security assessments:
 
-**[🔗 Cybersecurity Portfolio](https://l1uk.github.io/portfolio-repository/)**
+**[🔗 Cybersecurity Portfolio](https://l1uk.github.io/cybersecurity-portfolio/)**
 
 Topics covered:
 - Graph Neural Networks for Threat Detection
@@ -57,16 +57,15 @@ Topics covered:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/luca-volonterio-4b95841a8/)
 - 📧 [Email](mailto:volonterioluca@gmail.com)
-- 🌐 [Portfolio](https://l1uk.github.io/cybersecurity-portfolio/)
 - 📝 [CV - Multiple Languages](https://l1uk.github.io/cybersecurity-portfolio/)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=l1uk&show_icons=true&theme=tokyonight)
+![trophy](https://github-profile-trophy.vercel.app/?username=l1uk&theme=tokyonight&no-frame=true&row=1)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=l1uk&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=l1uk&theme=tokyonight)
 
 ---
 
