@@ -28,27 +28,11 @@ Currently completing my **Erasmus Mundus Master's in Cybersecurity** (CYBERUS pr
 
 ---
 
-## 🎯 Featured Projects
-
-### 🔐 [Novel IDS using Graph Attention Networks](link-to-repo)
-Groundbreaking intrusion detection system achieving **99% accuracy** using GAT for router infrastructure security. Demonstrated 25% improvement over traditional methods with real-world scalability for enterprise networks.
-
-### 🤖 [AI-Driven Security Automation](link-to-repo)
-Bachelor thesis (cum laude) - Intelligent security incident response system reducing manual intervention by 90% for enterprise IT infrastructure using secure RPA and ML frameworks.
-
-### 🚀 [AutoLogBook - Nuclear Research Platform](link-to-repo)
-Full-stack web platform (FastAPI + React + Go) for electron microscopy image management at JRC. Production-ready system replacing legacy desktop application.
-
-### 🔑 [Lightweight Cryptography with Cellular Automata](link-to-repo)
-Novel resource-efficient image encryption algorithm using Conway's Game of Life, designed for IoT and embedded security applications with strong randomness properties.
-
----
-
 ## 📚 Academic Portfolio
 
 Check out my complete collection of research papers, technical reports, and security assessments:
 
-**[🔗 Cybersecurity Portfolio](https://your-username.github.io/portfolio-repository/)**
+**[🔗 Cybersecurity Portfolio](https://l1uk.github.io/portfolio-repository/)**
 
 Topics covered:
 - Graph Neural Networks for Threat Detection
@@ -71,18 +55,18 @@ Topics covered:
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](your-linkedin-url)
-- 📧 [Email](mailto:your-email)
-- 🌐 [Portfolio](https://your-username.github.io/portfolio-repository/)
-- 📝 [CV - Multiple Languages](https://your-username.github.io/portfolio-repository/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/luca-volonterio-4b95841a8/)
+- 📧 [Email](mailto:volonterioluca@gmail.com)
+- 🌐 [Portfolio](https://l1uk.github.io/cybersecurity-portfolio/)
+- 📝 [CV - Multiple Languages](https://l1uk.github.io/cybersecurity-portfolio/)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=l1uk&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=l1uk&layout=compact&theme=tokyonight)
 
 ---
 
