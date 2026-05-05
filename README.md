@@ -65,7 +65,6 @@ Topics covered:
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=l1uk&theme=tokyonight&no-frame=true&row=1)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=l1uk&theme=tokyonight&cache_buster=1)
 
 ---
 
